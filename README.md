@@ -1,4 +1,4 @@
-# flappy-felipe-RayWenderlicht
+# flappy-felipe-RayWenderlich
 Swift 3.0 version of Flappy Felipe and SKTUtils using the tutorials from https://www.raywenderlich.com/101509/flappy-video-tutorial-series-updated-for-swift
 
 
